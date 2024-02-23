@@ -5,7 +5,7 @@ A repository formatting the standard template of a project
 
 ## Developer Guidance
 
-This package uses `poetry` as a dependancy manager please refer to the documentation [poetry-docs](https://python-poetry.org)
+This package uses `poetry` as a dependancy manager please refer to the documentation [poetry-docs](https://python-poetry.org).
 It creates a package specifc `venv` to handle and resolve dependancies. By default the venv is established in 
 ...\AppData\Local\pypoetry\Cache\virtualenvs\template-aoXx48YX-py3.11\Scripts\python.exe
 
