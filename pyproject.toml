@@ -2,9 +2,9 @@
 name = "template"
 version = "0.1.0"
 description = "Default configuration for repositories"
-authors = ["Your Name <liddingtonben@gmail.com>"]
-license = ""
+authors = ["Ben Liddington <liddingtonben@gmail.com>"]
 readme = "README.md"
+packages = [{include = "template"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
